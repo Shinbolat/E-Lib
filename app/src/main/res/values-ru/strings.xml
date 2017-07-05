@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ИСБ</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Настройки</string>
+    <string name="authors_name">Авторы</string>
+    <string name="books_name">Книги</string>
+    <string name="find">Найти</string>
+    <string name="books_authors">Авторы</string>
+    <string name="books_rooms">Кабинет</string>
+    <string name="add">Добавить</string>
+    <string name="back">Назад</string>
+    <string name="add_data">Добавить данные</string>
+    <string name="inquiry_condition">состояние запроса</string>
+    <string name="insert">ввод</string>
+    <string name="edit">Редактировать</string>
+    <string name="result">Найдено:</string>
+    <string name="save">Сохранить</string>
+
+</resources>
